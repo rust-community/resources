@@ -38,7 +38,7 @@ p {
     font-weight: 400;
 }
 li {
-    margin-bottom: .5em;
+    font-size:1.25em;
 }
 h1 {
     font-size: 2em;
@@ -90,7 +90,7 @@ ul.menu li>ul {
 
 h2 {
     font-weight: 500;
-    font-size: 18.5px; /* gridfit */
+    font-size: 1.75em; /* gridfit */
 }
 h3 {
     font-weight: 500;
