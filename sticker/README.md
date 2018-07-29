@@ -4,6 +4,8 @@ This folder contains common designs known to be ready to be sent to printers.
 
 As sticker printers always allow you a little room around your designs, we also show you pictures of example prints.
 
+In general, when a sticker comes in different forms, but the same logo (e.g. Rust logo round, Rust logo hexagon), we only supply the logo. The same goes for simple color changes like white vs. black.
+
 ## /ferris
 
 These are Ferris stickers. Most are available at [rustacean.net](https://rustacean.net), but imported here for ease of access.
@@ -11,6 +13,9 @@ These are Ferris stickers. Most are available at [rustacean.net](https://rustace
 ## /projects
 
 Stickers from subprojects.
+
+- content-o-tron
+- WASM
 
 ## /rust
 
